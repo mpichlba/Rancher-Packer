@@ -12,3 +12,6 @@ variables.json
 
 # Downloaded iso's
 *.iso
+
+# envionrment vars
+*.env
